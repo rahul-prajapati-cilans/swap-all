@@ -1,0 +1,20 @@
+[
+    {
+        "inputs": [
+            {
+                "internalType": "address[]",
+                "name": "tokens",
+                "type": "address[]"
+            },
+            {
+                "internalType": "uint256",
+                "name": "slippageBps",
+                "type": "uint256"
+            }
+        ],
+        "name": "swapAllTokensToETH",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    }
+]
